@@ -45,6 +45,7 @@ As principais tarefas desenvolvidas incluíram: conceção e desenho das estrutu
 - [x] Desenvolver navegação e desvio de obstáculos  
 - [x] Integrar sensores auxiliares  
 - [x] Controlar o braço robótico e posicionar a garra
+- [x] Integrar um sistema de streaming para controlo à distância
 
 
 
