@@ -28,11 +28,12 @@ As principais tarefas desenvolvidas incluíram: conceção e desenho das estrutu
 
 ## Linguagens e Plataformas
 
-- C  
-- C++  
-- Python  
-- SolidWorks
-- Arduino IDE  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![LattePanda](https://img.shields.io/badge/LattePanda-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ## Objetivos
