@@ -12,20 +12,9 @@ Projeto em Sistemas de Automação 24/25
 
 ## Descrição do Projeto
 
-O principal objetivo do projeto consistiu na conce¸c˜ao, fabrico e montagem de um
-ve´ıculo autoguiado capaz de se movimentar autonomamente num percurso delimitado
-por uma linha no ch˜ao, detetando e contornando obst´aculos atrav´es de sensores. Para-
-lelamente, foi desenvolvido um manipulador de trˆes eixos, constru´ıdo para ser operado
-manualmente, com o intuito de realizar tarefas de movimenta¸c˜ao simples. O projeto
-foi dividido em duas fases distintas: a primeira centrada na implementa¸c˜ao do controlo
-manual do ve´ıculo via comando remoto, e a segunda focada no desenvolvimento do modo
-de navega¸c˜ao aut´onoma com sensores IV e de ultrassons.
-As principais tarefas desenvolvidas inclu´ıram: conce¸c˜ao e desenho das estruturas
-mecˆanicas em software CAD; fabrico das pe¸cas; montagem de todos os componentes
-mecˆanicos e eletr´onicos; desenvolvimento e teste do c´odigo de controlo; integra¸c˜ao do
-sistema completo; e verifica¸c˜ao do desempenho funcional. O planeamento seguiu uma
-abordagem iterativa, com testes parciais realizados ao longo do processo para validar
-cada m´odulo antes da integra¸c˜ao final.
+O principal objetivo do projeto consistiu na conceção, fabrico e montagem de um veículo autoguiado capaz de se movimentar autonomamente num percurso delimitado por uma linha no chão, detetando e contornando obstáculos através de sensores. Paralelamente, foi desenvolvido um manipulador de três eixos, construído para ser operado manualmente, com o intuito de realizar tarefas de movimentação simples. O projeto foi dividido em duas fases distintas: a primeira centrada na implementação do controlo manual do veículo via comando remoto, e a segunda focada no desenvolvimento do modo de navegação autónoma com sensores IV e de ultrassons. 
+
+As principais tarefas desenvolvidas incluíram: conceção e desenho das estruturas mecânicas em software CAD; fabrico das peças; montagem de todos os componentes mecânicos e eletrónicos; desenvolvimento e teste do código de controlo; integração do sistema completo; e verificação do desempenho funcional. O planeamento seguiu uma abordagem iterativa, com testes parciais realizados ao longo do processo para validar cada módulo antes da integração final.
 
 ## Equipa
 
