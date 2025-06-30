@@ -27,7 +27,7 @@ O **MecaniCar**, veículo desenvolvido no âmbito da Unidade Curricular de Proje
 
 ## Objetivos
 
-- [x] Projeto e Dimensionamento dos Sistemas de Atuação e respetivos Drivers  
+
 - [x] Projeto e Dimensionamento dos Sistemas de Controlo  
 - [x] Projeto e Dimensionamento da Unidade de Alimentação de Energia  
 - [x] Comando Remoto e Sistema de Comunicação sem Fios  
