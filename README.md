@@ -12,7 +12,20 @@ Projeto em Sistemas de Automação 24/25
 
 ## Descrição do Projeto
 
-O **MecaniCar**, veículo desenvolvido no âmbito da Unidade Curricular de Projeto em Sistemas de Automação, enquadra-se na categoria de veículo autónomo, capaz de percorrer um circuito delimitado por uma linha branca sem intervenção humana e evitando obstáculos. Adicionalmente, dispõe de um modo de condução remota, permitindo ao utilizador controlar tanto o trajeto do carro como o manipulador de três eixos com garra eletromagnética para recolher objetos metálicos. O sistema identifica linhas de pista, corrige trajetórias, contorna obstáculos e transmite vídeo em tempo real. O manipulador pode ser operado por cinemática direta ou inversa, e o veículo integra duas rodas motrizes com motores DC e encoders, uma roda livre para estabilidade, sensores auxiliares, uma câmara, microcontrolador e computador embarcado, garantindo comunicação rápida e fiável. O controlo e visualização são feitos via website acessível na rede gerada pelo microcontrolador.
+O principal objetivo do projeto consistiu na conce¸c˜ao, fabrico e montagem de um
+ve´ıculo autoguiado capaz de se movimentar autonomamente num percurso delimitado
+por uma linha no ch˜ao, detetando e contornando obst´aculos atrav´es de sensores. Para-
+lelamente, foi desenvolvido um manipulador de trˆes eixos, constru´ıdo para ser operado
+manualmente, com o intuito de realizar tarefas de movimenta¸c˜ao simples. O projeto
+foi dividido em duas fases distintas: a primeira centrada na implementa¸c˜ao do controlo
+manual do ve´ıculo via comando remoto, e a segunda focada no desenvolvimento do modo
+de navega¸c˜ao aut´onoma com sensores IV e de ultrassons.
+As principais tarefas desenvolvidas inclu´ıram: conce¸c˜ao e desenho das estruturas
+mecˆanicas em software CAD; fabrico das pe¸cas; montagem de todos os componentes
+mecˆanicos e eletr´onicos; desenvolvimento e teste do c´odigo de controlo; integra¸c˜ao do
+sistema completo; e verifica¸c˜ao do desempenho funcional. O planeamento seguiu uma
+abordagem iterativa, com testes parciais realizados ao longo do processo para validar
+cada m´odulo antes da integra¸c˜ao final.
 
 ## Equipa
 
