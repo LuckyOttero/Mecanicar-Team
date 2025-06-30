@@ -18,10 +18,10 @@ As principais tarefas desenvolvidas incluíram: conceção e desenho das estrutu
 
 ## Equipa
 
-- 
--
--
--
+- Mateus Duarte 108867
+- Rodrigo Carrusca 108980
+- Manuel Resende 107247
+- Gonçalo Batista 98280
 
 **Turma P2**
 **Grupo 1**
