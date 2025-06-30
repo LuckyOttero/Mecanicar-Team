@@ -21,7 +21,7 @@ O **MecaniCar**, veículo desenvolvido no âmbito da Unidade Curricular de Proje
 -
 -
 
-**Turma P2 **
+**Turma P2**
 **Grupo 1**
 
 ## Linguagens e Plataformas
@@ -36,13 +36,12 @@ O **MecaniCar**, veículo desenvolvido no âmbito da Unidade Curricular de Proje
 ## Objetivos
 
 
-- [x] Projeto e Dimensionamento dos Sistemas de Controlo  
-- [x] Projeto e Dimensionamento da Unidade de Alimentação de Energia  
-- [x] Comando Remoto e Sistema de Comunicação sem Fios  
-- [x] Sistema de Navegação, Contorno de Obstáculos e Execução de Trajetórias  
-- [x] Projeto e Dimensionamento dos Sistemas de Sensorização Acessória  
-- [x] Integração de um Sistema de LiveStreaming de Imagens para Auxílio da Navegação de Longa Distância  
-- [x] Modelo Cinemático do Manipulador e Posicionamento da Garra no Espaço 3D
+- [x] Definir e controlar os sistemas de movimento  
+- [x] Planear e dimensionar a alimentação elétrica  
+- [x] Implementar o controlo remoto e comunicação sem fios  
+- [x] Desenvolver navegação e desvio de obstáculos  
+- [x] Integrar sensores auxiliares  
+- [x] Controlar o braço robótico e posicionar a garra
 
 
 
