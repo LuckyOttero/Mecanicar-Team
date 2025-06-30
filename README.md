@@ -1,6 +1,14 @@
 # Mecanicar-Team
 Projeto em Sistemas de Automação 24/25
 
+## Índice
+
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Equipa](#equipa)
+- [Linguagens e Plataformas](#linguagens-e-plataformas)
+- [Objetivos](#objetivos)
+
+---
 
 ## Descrição do Projeto
 
