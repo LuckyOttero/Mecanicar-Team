@@ -24,7 +24,7 @@ As principais tarefas desenvolvidas incluíram: conceção e desenho das estrutu
 - Gonçalo Batista 98280
 
 **Turma P2**
-**Grupo 1**
+**Grupo 2**
 
 ## Linguagens e Plataformas
 
