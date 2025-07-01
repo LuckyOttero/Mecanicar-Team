@@ -19,7 +19,7 @@ As principais tarefas desenvolvidas incluíram: conceção e desenho das estrutu
 
 ## Equipa
 
-- Mateus Duarte 108867
+- Mateus Duarte 108967
 - Rodrigo Carrusca 108980
 - Manuel Resende 107247
 - Gonçalo Batista 98280
