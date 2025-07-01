@@ -7,6 +7,7 @@ Projeto em Sistemas de Automação 24/25
 - [Equipa](#equipa)
 - [Linguagens e Plataformas](#linguagens-e-plataformas)
 - [Objetivos](#objetivos)
+- [Vídeo Demonstrativo](#vídeo)
 
 ---
 
@@ -47,6 +48,10 @@ As principais tarefas desenvolvidas incluíram: conceção e desenho das estrutu
 - [x] Controlar o braço robótico e posicionar a garra
 - [x] Integrar um sistema de streaming para controlo à distância
 
+## Vídeo Demonstrativo
+
+No link seguinte é possível encontrar um curto vídeo publicado na plataforma YouTube, que representa o percurso feito na demonstração 2, em que o carro deve seguir a linha branca e desviar do obstáculo no modo automático, assim como agarrar uma pequena peça com o manipulador através do modo manual e depositá-la no fim do precurso.
+[Clique aqui para visualizar o vídeo!]([https://exemplo.com](https://www.youtube.com/watch?v=lj2uMQ2BhZQ))
 
 
 © 2025 Mecanicar Team - UA
